@@ -1,10 +1,10 @@
 import java.util.Scanner;
 
-public class Prog04_Lista02 {
+public class Programa4 {
 
 	public static void main(String[] args) {
 		Scanner leitor = new Scanner(System.in);
-		int Numero, Resto;
+		int Numero;
 		
 		System.out.println("Múltiplo de 5");
 		
