@@ -1,6 +1,6 @@
 import java.util.Scanner;
 //  PROGRAMA QUE IRÁ RECEBER O CADASTRO DE 5 CLIENTES DE UM HOTEL E ME RETORNAR: 1) A MEDIA DE IDADE, PESO E SALARIO. 2) O CLIENTE MAIS PESADO E O MAIS LEVE. 3) A % DE PESSOAS QUE GANHAM MAIS OU MENOS QUE 5000 REAIS. 4) PORCENTAGEM DE PESSOAS DO SEXO MASCULINO E DO SEXO FEMININO 
-public class hotelcomdowhile {
+public class Hotelcomdowhile {
     public static void main(String[] args) throws Exception {
         Scanner leitor = new Scanner(System.in);
         //constantes
