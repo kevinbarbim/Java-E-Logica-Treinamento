@@ -4,10 +4,10 @@ public class hotelcomdowhile {
     public static void main(String[] args) throws Exception {
         Scanner leitor = new Scanner(System.in);
         //constantes
-        final Integer clientes=5, faixa1=5000;
+        final int clientes=5, faixa1=5000;
         //variaveis
-        Integer idade, i=0;
-        Double peso, salario, maiorpeso=0.0,menorpeso=1000.0, somaidade=0.0, somapeso=0.0, somasalario=0.0, cont1=0.0, cont2=0.0, cont_masculino=0.0, cont_feminino=0.0;
+        int idade, i=0;
+        double peso, salario, maiorpeso=0.0,menorpeso=1000.0, somaidade=0.0, somapeso=0.0, somasalario=0.0, cont1=0.0, cont2=0.0, cont_masculino=0.0, cont_feminino=0.0;
         char sexo;
 
         do{
